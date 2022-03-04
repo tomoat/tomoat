@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [slashare](https://www.slashare.com)
 
-- 🌱 I’m currently learning **Koa, Express, NestJS, Vue, React, Python**
+- 🌱 I’m currently learning **Koa, Express, NestJS, Vue, React, Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tomoat](https://github.com/tomoat)
 
